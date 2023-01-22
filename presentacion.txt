@@ -1,3 +1,5 @@
-Hola, mi nombre es Cristina, 
-tengo 29 años.
-Estoy haciendo un curso de desarrollo multiplataforma
+Hola, mi nombre es Cristina. 
+Tengo 29 años.
+
+Estoy haciendo un curso de desarrollo multiplataforma.
+Y ahora estoy aprendiendo a utilizar git
