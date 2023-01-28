@@ -1,5 +1,5 @@
 Hola, mi nombre es Cristina. 
 Tengo 29 años.
 
-Estoy haciendo un modulo de desarrollo multiplataforma.
+Estoy haciendo una fp de desarrollo multiplataforma.
 Y ahora estoy aprendiendo a utilizar git
